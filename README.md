@@ -1,11 +1,9 @@
-Code accompanying the paper (Angelov, Trifonov, Pavlova, 2026) and the
-Compiled IBEX Day-Ahead Price Dataset (DOI: 10.5281/zenodo.21191790).
+Code accompanying the paper (Angelov, Trifonov, Pavlova, 2026) and the Compiled IBEX Day-Ahead Price Dataset (DOI: 10.5281/zenodo.21191790). 
+
+The paper is funded by Bulgarian National Science Fund, project “Research on the possibilities of using artificial intelligence and simulation models to improve energy efficiency”, grant number KP-06-PN97/47 (SUNI BG-175467353-25-08-0262).
 
 
 # Simulation code: Individual and Coordinated MILP Dispatch of an Industrial PV-Battery Prosumer Community
-
-Code accompanying the paper (Angelov, Trifonov, Pavlova, 2026) and the
-Compiled IBEX Day-Ahead Price Dataset (DOI: 10.5281/zenodo.21191790).
 
 ## Contents
 | File | Purpose |
