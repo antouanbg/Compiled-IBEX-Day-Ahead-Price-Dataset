@@ -1,3 +1,7 @@
+Code accompanying the paper (Angelov, Trifonov, Pavlova, 2026) and the
+Compiled IBEX Day-Ahead Price Dataset (DOI: 10.5281/zenodo.21191790).
+
+
 # Simulation code: Individual and Coordinated MILP Dispatch of an Industrial PV-Battery Prosumer Community
 
 Code accompanying the paper (Angelov, Trifonov, Pavlova, 2026) and the
